@@ -68,7 +68,7 @@ Java-TicTocToe/
 
 ---
 
-## **Autores**
+## **Autor**
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170758704?s=400&u=da7a33d81f3feeb953e687442cba5d042527f94d&v=4" width=115><br><sub>João Vitor Fernandes</sub>](https://github.com/Joaofernandes-DEV) |  
 | :---: |
